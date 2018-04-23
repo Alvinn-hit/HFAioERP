@@ -1,0 +1,1 @@
+$globals.getClassObj("hf.HFVerify").exec($request)

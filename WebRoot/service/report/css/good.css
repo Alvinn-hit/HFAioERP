@@ -1,0 +1,23 @@
+ .goods_box{
+	display:none;
+	position:absolute;
+	background:#fff;
+	width:35%;
+	height:450px;
+	overflow-y:hidden;
+  }
+  
+  .goods_box{	
+	width:30%;	
+  }
+  
+  .goods_box_head{width:100%;}
+  .goods_box_head tr{background:#5fa3e7}
+  .goods_box_list{
+  	table-layout:fixed;
+  	width:100%;  	
+  }
+  .goods_box_list_div{
+  	height:400px;
+  	overflow-y:auto;
+  }

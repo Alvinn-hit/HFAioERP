@@ -1,0 +1,18 @@
+.com_box{
+	display:none;
+	position:absolute;
+	background:#fff;
+	width:35%;
+	height:450px;
+	overflow-y:hidden;
+  }
+  .com_box_head{width:100%;table-layout:fixed;}
+  .com_box_head tr{background:#5fa3e7}
+  .com_box_list{
+  	table-layout:fixed;
+  	width:100%;  	
+  }
+  .com_box_list_div{
+  	height:400px;
+  	overflow-y:auto;
+  }
