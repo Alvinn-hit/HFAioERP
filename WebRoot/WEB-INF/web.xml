@@ -118,7 +118,6 @@
 			org.apache.velocity.tools.view.servlet.VelocityViewServlet
 		</servlet-class>
   </servlet>
-
   <servlet>
     <servlet-name>help</servlet-name>
     <servlet-class>com.menyi.web.util.HelpServlet</servlet-class>
@@ -256,7 +255,6 @@
     <servlet-name>HFScanInStockServlet</servlet-name>
     <url-pattern>/hf/HFScanInStockServlet</url-pattern>
   </servlet-mapping>
-
   <servlet-mapping>
     <servlet-name>AIOVueFilter</servlet-name>
     <url-pattern>/mobilevue/*</url-pattern>
@@ -410,7 +408,6 @@
     <servlet-name>HFScanInStockServlet</servlet-name>
     <servlet-class>hf.HFScanInStockServlet</servlet-class>
   </servlet>
-
   <servlet-mapping>
     <servlet-name>UserStyleServlet</servlet-name>
     <url-pattern>/favourstyle</url-pattern>
